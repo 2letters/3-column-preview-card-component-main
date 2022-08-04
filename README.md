@@ -20,8 +20,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://)
-- Live Site URL: [Site](https://)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/flexbox-3column-preview-card-component-gppR093aHN)
+- Live Site URL: [Site](https://3-column-preview-card-component-main-alpha-three.vercel.app/)
 
 ## My process
 
