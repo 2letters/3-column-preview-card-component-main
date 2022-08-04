@@ -24,7 +24,6 @@ section {
     display: flex;
     flex-direction: column;
     width: 198px;
-    height: 404px;
     padding: 48px 61px 48px 48px;
 }
 
@@ -111,7 +110,6 @@ button:hover {
         display: flex;
         flex-direction: column;
         width: 228px;
-        height: 346px;
         padding: 48px 50px 48px 49px;
     }
 
